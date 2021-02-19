@@ -1,2 +1,8 @@
 # BedrockBalloons
-Will Add a Model to The Server With a Bunch of Balls and The Ability to Interact With It
+[PMMP] Add a beautiful model to the pocketmine server with which you can interact.
+
+# How Use?
+
+- Specify coordinates in Main.php and go to the server.
+
+![BedrockBalloons](https://github.com/iteplenky/BedrockBalloons/blob/main/Balloons.gif)
