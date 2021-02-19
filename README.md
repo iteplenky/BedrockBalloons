@@ -5,4 +5,4 @@
 
 - Specify coordinates in Main.php and go to the server.
 
-![BedrockBalloons](https://github.com/iteplenky/BedrockBalloons/blob/main/Balloons.gif)
+![BedrockBalloons](https://github.com/iteplenky/BedrockBalloons/blob/main/balloons.gif)
